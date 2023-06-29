@@ -1,8 +1,7 @@
 
-<div  align="center" font-size="32">
-
-React com Testes Automatizados
-
+<div align="center" id="alura-testes">
+ 
+ # React com Testes Automatizados
 </div>
 
   
@@ -95,4 +94,4 @@ yarn start
   
   
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#alura-testes)<br>
